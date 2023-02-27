@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github code]()
+- Solution URL: [Github code](https://github.com/MandarBorhade/results-component-solution)
 - Live Site URL: [Live](https://mandarborhade.github.io/results-component-solution/)
 
 ## My process
